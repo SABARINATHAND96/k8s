@@ -27,5 +27,5 @@ spec:
     spec:
       containers:
         - name: hello
-          image: sabarinathand96/kubernetes:latest
+          image: sabarinathand96/kuberimage:latest
           imagePullPolicy: Always
